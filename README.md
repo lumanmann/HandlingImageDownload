@@ -1,4 +1,4 @@
-# Learn Swift Taipei讀書會#0 
+# Swift Study Jam#0 
 
 
 ## 題目：
